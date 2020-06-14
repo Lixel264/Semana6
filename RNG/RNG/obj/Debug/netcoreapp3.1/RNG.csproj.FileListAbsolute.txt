@@ -1,0 +1,12 @@
+C:\Users\WANDA\Desktop\C#\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.exe
+C:\Users\WANDA\Desktop\C#\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.deps.json
+C:\Users\WANDA\Desktop\C#\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.dll
+C:\Users\WANDA\Desktop\C#\RNG\RNG\bin\Debug\netcoreapp3.1\RNG.pdb
+C:\Users\WANDA\Desktop\C#\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.dll
+C:\Users\WANDA\Desktop\C#\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.pdb
+C:\Users\WANDA\Desktop\C#\RNG\RNG\obj\Debug\netcoreapp3.1\RNG.genruntimeconfig.cache

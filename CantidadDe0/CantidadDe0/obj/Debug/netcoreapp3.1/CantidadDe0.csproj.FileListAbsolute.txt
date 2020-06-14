@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\bin\Debug\netcoreapp3.1\CantidadDe0.exe
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\bin\Debug\netcoreapp3.1\CantidadDe0.deps.json
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\bin\Debug\netcoreapp3.1\CantidadDe0.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\bin\Debug\netcoreapp3.1\CantidadDe0.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\bin\Debug\netcoreapp3.1\CantidadDe0.dll
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\bin\Debug\netcoreapp3.1\CantidadDe0.pdb
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.dll
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.pdb
+C:\Users\WANDA\Desktop\C#\CantidadDe0\CantidadDe0\obj\Debug\netcoreapp3.1\CantidadDe0.genruntimeconfig.cache

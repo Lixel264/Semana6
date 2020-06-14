@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.exe
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.deps.json
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.dll
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.pdb
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.dll
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.pdb
+C:\Users\WANDA\Desktop\C#\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.genruntimeconfig.cache

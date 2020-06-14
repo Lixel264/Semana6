@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\bin\Debug\netcoreapp3.1\CantidadDigitos.exe
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\bin\Debug\netcoreapp3.1\CantidadDigitos.deps.json
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\bin\Debug\netcoreapp3.1\CantidadDigitos.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\bin\Debug\netcoreapp3.1\CantidadDigitos.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\bin\Debug\netcoreapp3.1\CantidadDigitos.dll
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\bin\Debug\netcoreapp3.1\CantidadDigitos.pdb
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.dll
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.pdb
+C:\Users\WANDA\Desktop\C#\CantidadDigitos\CantidadDigitos\obj\Debug\netcoreapp3.1\CantidadDigitos.genruntimeconfig.cache

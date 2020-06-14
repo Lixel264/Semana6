@@ -1,0 +1,13 @@
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\bin\Debug\netcoreapp3.1\TablaMultiplicar7.exe
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\bin\Debug\netcoreapp3.1\TablaMultiplicar7.deps.json
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\bin\Debug\netcoreapp3.1\TablaMultiplicar7.runtimeconfig.json
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\bin\Debug\netcoreapp3.1\TablaMultiplicar7.runtimeconfig.dev.json
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\bin\Debug\netcoreapp3.1\TablaMultiplicar7.dll
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\bin\Debug\netcoreapp3.1\TablaMultiplicar7.pdb
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.csprojAssemblyReference.cache
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.csproj.CoreCompileInputs.cache
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.AssemblyInfoInputs.cache
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.AssemblyInfo.cs
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.dll
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.pdb
+C:\Users\WANDA\Desktop\C#\TablaMultiplicar7\TablaMultiplicar7\obj\Debug\netcoreapp3.1\TablaMultiplicar7.genruntimeconfig.cache
