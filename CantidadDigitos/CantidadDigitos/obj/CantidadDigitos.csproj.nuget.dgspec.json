@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj": {}
+    "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj": {
+    "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj",
+        "projectUniqueName": "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj",
         "projectName": "CantidadDigitos",
-        "projectPath": "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj",
+        "projectPath": "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDigitos\\CantidadDigitos\\CantidadDigitos.csproj",
         "packagesPath": "C:\\Users\\WANDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDigitos\\CantidadDigitos\\obj\\",
+        "outputPath": "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDigitos\\CantidadDigitos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WANDA\\AppData\\Roaming\\NuGet\\NuGet.Config",

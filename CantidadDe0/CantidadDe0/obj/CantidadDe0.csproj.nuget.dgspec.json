@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj": {}
+    "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj": {
+    "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj",
+        "projectUniqueName": "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj",
         "projectName": "CantidadDe0",
-        "projectPath": "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj",
+        "projectPath": "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDe0\\CantidadDe0\\CantidadDe0.csproj",
         "packagesPath": "C:\\Users\\WANDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WANDA\\Desktop\\C#\\CantidadDe0\\CantidadDe0\\obj\\",
+        "outputPath": "C:\\Users\\WANDA\\source\\repos\\Semana6\\CantidadDe0\\CantidadDe0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WANDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
