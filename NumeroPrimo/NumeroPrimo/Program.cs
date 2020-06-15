@@ -10,6 +10,8 @@ namespace NumeroPrimo
             Console.WriteLine("Dame un número positivo");
             n = int.Parse(Console.ReadLine());
 
+            int c = 0;
+
             while (n < 0)
             {
                 Console.WriteLine("Lo siento, digitaste un número negativo");
@@ -19,15 +21,21 @@ namespace NumeroPrimo
                 n = int.Parse(Console.ReadLine());
 
             }
-            
 
-            if (n / 1 == n && n / n == 1)
+            for (int i = 1; i < (n + 1); i++)
             {
-                Console.WriteLine("El número que digitaste es un número primo");
+                if (n % i == 0)
+                {
+                    c++;
+                }
+            }
+            if (c != 2)
+            {
+                Console.WriteLine("El número que digitaste no es un número primo");
             }
             else
             {
-                Console.WriteLine("El número que digitaste no es un número primo");
+                Console.WriteLine("El número que digitaste es un número primo");
             }
             Console.ReadKey();
         }
