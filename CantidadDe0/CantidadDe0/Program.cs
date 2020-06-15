@@ -6,16 +6,21 @@ namespace CantidadDe0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Te diré cúantos 0 hay entre 0 y 100");
-            int cero = 3;
-            for (int i = 1; i < 100; i++)
+            Console.WriteLine("Te diré cúantos 0 hay entre 1 y 100");
+            int s = 0;
+            for (int i = 1; i <= 100; i++)
             {
-                if (i % 10 == 0)
+                string cadena = i.ToString();
+                char buscar = '0';
+                int C = 0;
+                foreach (char c in cadena)
                 {
-                    cero++;
+                    if (c == buscar) ++C;
                 }
+                s += C;
             }
-            Console.WriteLine("Entre 0 y 10 hay " + cero + " ceros");
+            Console.WriteLine("Hay " + s + "ceros");
+            Console.ReadKey();
            
         }
     }
